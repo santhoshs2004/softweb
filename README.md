@@ -30,7 +30,6 @@ Publish the website in the given URL.
 ## PROGRAM:
 
 # HOME:
-
 ```
 <!DOCTYPE html>
 <html lang="en">
